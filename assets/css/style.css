@@ -1,0 +1,116 @@
+*{
+	margin: 0px;
+	padding:0px;
+	font-family: 
+	font-size: 16px;
+	font-family: 'Open Sans', sans-serif;
+	/*font-family: 'Montserrat', sans-serif;
+	font-family: 'Open Sans', sans-serif;*/
+}
+/*nav*/
+.barra{
+	background-color: #634F6C;
+    height: 5vh;
+    text-align: center;
+}
+.logo{
+	width: 48%;
+	padding-bottom: 15px;
+	margin-left: 20px;
+}
+.text-nav{
+	margin-left: 430px;
+}
+/*seccion 01*/
+.sec01{
+	background: url('../img/demo.jpg') no-repeat ;
+	background-size: cover; 
+
+	padding-bottom: 50px;
+	height: 100vh;
+}
+.title{
+	margin-right: 400px;
+    margin-top: 100px;
+	color:#837390;
+}
+/*seccion 02*/
+.sec02{
+	background-color: #E4C3C3;
+	width: 100%;
+	height: 80vh;
+}
+
+.cv-photo{
+    width: 39%;
+    margin-top: 30px;
+    margin-left: 153px;
+}
+.perfil{
+	margin-left: 430px;
+    margin-top: -170px;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.perfil p{
+	color: #fff;
+	text-align: justify;
+}
+
+
+.title-2{
+	text-align: center;
+	font-weight: lighter;
+	text-transform: uppercase;
+	color: #fff;
+}
+.intereses li{
+	color:#fff;
+	list-style: none;
+	display: inline-block;
+	text-align: center;
+	font-size: 14px;
+}
+.intereses i{
+	font-size: 20px;
+	padding: 10px;
+}
+/*secion 03*/
+.sec03{
+	color: #446793;
+	text-align: center;
+	height: 40vh;
+}
+.title-3{
+	text-align: center;
+
+}
+.sec03 i{
+	margin-top: 40px;
+	color: #E4C3C3;
+	font-size: 50px;
+}
+
+.sec03 p{
+	font-size: 12px;
+	color: grey;
+}
+/*seccion 04*/
+.sec04{
+	background-color: #446793;
+	color: #fff;
+	text-align: center;
+}
+
+/*footer*/
+footer{
+	background-color: #5A5F75;
+	color: #fff;
+	text-align: center;
+}
+
+
+
+
+
